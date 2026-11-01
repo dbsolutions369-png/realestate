@@ -1,0 +1,6 @@
+{
+  "name": "Dream Property Sorter",
+  "description": "The right buyer, called first. Real estate enquiry forms and buyer sorting boards in Hyderabad by Samba Siva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
